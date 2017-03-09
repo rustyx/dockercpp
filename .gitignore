@@ -22,6 +22,9 @@
 *.la
 *.a
 *.lib
+*.img
+*.tar
+*.gz
 
 # Executables
 *.exe
